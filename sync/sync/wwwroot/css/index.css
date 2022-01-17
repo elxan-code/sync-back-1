@@ -1,0 +1,368 @@
+.btn{
+    border: 1px solid red;
+border-radius: 30px;
+color: red;
+font-size: 15px;
+padding: 6px 24px;
+}
+.cards-1 .card-image {
+    width: 7.5rem;
+    height: 7.5rem;
+    margin-right: auto;
+    margin-bottom: 1.5rem;
+    margin-left: auto;
+    border-radius: 50%;
+    background-color: #ebe7fa;}
+    cards-1 .card-image .fas {
+        margin-left: 29px;
+        margin-top: 35px; 
+        font-size: 50px;
+        color: #aa7eec;
+        text-align: center;
+        font-size: 3.25rem;
+        line-height: 7.5rem;}
+        .fa-users{ 
+            margin-left: 29px;
+            font-size: 50px;
+            margin-top: 35px;
+            color: rebeccapurple;
+           
+        }
+        .card-title{
+            margin-left: -20px;
+            margin-top: -12px;
+          
+        }
+        .fa-code
+        {
+            margin-left: 29px;
+            font-size: 50px;
+            margin-top: 35px;
+        }
+        .fa-cog{
+            margin-left: 32px;
+            font-size: 50px;
+            margin-top: 35px;
+        }
+        .fa-comments{
+            margin-left: 29px;
+            font-size: 50px;
+            margin-top: 35px;
+        }
+        .fa-rocket{
+            margin-left: 29px;
+            font-size: 50px;
+            margin-top: 35px;
+        }
+        .greens{
+            background-color: rgb(111, 168, 111);
+            color: green;
+           
+        }
+        .fas1{
+            color: red;
+
+        }
+        .fas2{
+            color: yellow;
+            
+        }
+        .fas3{
+            color: blue;
+            
+        }
+        .card-body{
+            flex: 1 1 auto;
+        }
+        .col-lg-12 {
+            justify-content: space-around;
+        }
+        .col-lg-6 {
+            -ms-flex: 0 0 50%;
+            flex: 0 0 50%;
+            max-width: 50%;}
+            .text-container{
+                font-size: 28px;
+            }
+            .basic-1 .list-unstyled .fas {
+                color: #777;
+                font-size: 0.5rem;
+                line-height: 1.75rem;
+            }
+            .li-space-lg li {
+                margin-bottom: 0.625rem;
+            }
+           
+            body, p {
+                color: #777;
+                font: 400 1rem/1.75rem "Open Sans",sans-serif;
+                font-size: 24px;
+
+            }
+            .basic-1 h1 {
+                margin-bottom: 1.5rem;
+                font-weight: bold;
+                color: black;
+            }
+            .collapse {
+                font-size: 19px;
+            }
+            .media{
+                display: flex;
+                align-items: center;
+            }
+            .li-space-lg{
+                font-size: 22px;
+            }
+            .fa-check-square{
+                color: green;
+            }
+            .media-body{
+                margin-left: 20px;
+                font-size: 17px;
+            }
+            .tabs .nav-link {
+                padding: 0.5rem 1.5rem;
+                border-radius: 0;
+                background-color: #f7fafd;
+                color: #777;
+                font-weight: 700;
+                font-size: 1.125rem;
+                text-decoration: none;
+                transition: all 0.2s ease;
+            }
+            .tabs .nav-link:hover{
+                color: white;
+                background-color: rgb(77, 15, 77);
+            }
+            .tabs-container{
+                margin: 70px;
+                margin-top: 142px;
+            }
+            .nav-item{
+                margin: 10px;
+            }
+            .tab-pane p{
+                font-size: 20px;
+            }
+            .tabs {
+                padding-top: 8rem;
+                padding-bottom: 8rem;
+                background-color: #e8eff6;
+            }
+            
+            .salam1{
+                text-align: center;
+                font-weight: bold;
+                color: black;
+                margin: 59px;
+
+            }
+            .fa-stack-1x
+            {
+                margin-left: -55px;
+                font-size: 37px;
+                color: white;
+                text-align: center;
+
+
+            }
+            .fa-stack-2x{
+                font-size: 100px;
+                margin-left: -82px;
+                color: rosybrown;
+            }
+            .yellow{
+                margin-left: 385px;
+            }
+            .fa-comments{
+                margin-left: 414px;
+                margin-top: 26px;
+            }
+            .fa-rocket{
+                margin-left: 414px;
+                margin-top: 26px;
+            }
+            .fa-download {
+                margin-left: 414px;
+                margin-top: 26px;
+
+            }
+            .blue{
+                margin-left: 384px;
+                color: blue;
+            }
+            .black{
+                margin-left: 384px;
+                color: violet;
+            }
+    .green{
+        color: green;
+    margin-top: 6px;
+    }
+    .red{
+        color: red;
+        margin-top: 5px;
+        margin-left: -82px;
+    }
+    .yellow{
+        color: rgb(124 124 50);
+    }
+    .fa-cog{
+        margin-left: -52px;
+    }
+    .img-fluid1{
+        width: 102%;
+        height: 74%;
+    }
+    .salam123{
+        margin-left: 34px;
+    }
+    .salam1234{
+        margin-left: 31px;
+        margin-top: 30px;
+    }
+    .salam12345{
+        margin-left: 35px;
+        margin-top: 36px;
+    }
+
+    .sagol{
+        display: flex;
+    }
+    .saqol1{
+        display: flex;
+    }
+    .image-container{
+        display: flex;
+    justify-content: center;
+    }
+    .img-fluid{
+        margin: 17px;
+    }
+    .nem{
+        text-align: center;
+        color: black;
+    }
+    .cards-2 {
+        padding-top: 7rem;
+        padding-bottom: 3rem;
+        background-color: #f7fafd;
+        text-align: center;
+    }
+    .nem h2{
+        font-size: 51px;
+        margin: 52px;
+    }
+    .fa-star{
+        color: #ffb30f;
+    }
+    .cards-2 {
+        padding-top: 0;
+        background-color: white;
+    }
+    .fa-code{
+        margin-left: 1px;
+    font-size: 51px;
+    margin-top: 37px;
+    }
+    .code1{
+        margin-left: 27px;
+        font-size: 51px;
+        margin-top: 37px;
+    }
+    .card{
+        border: 0px;
+    }
+    .code2{
+        margin-left: -63px;
+    font-size: 51px;
+    margin-top: 37px;
+    }
+    .code3 {
+        padding-top: 8rem;
+        padding-bottom: 5rem;
+        background-color: #e8eff6;
+       
+    }
+    .card-title1{
+        margin-left: 25px;
+        color: black;
+    }
+    .footer {
+        padding-top: 4rem;
+        padding-bottom: 1rem;
+        border-top: 1px solid #c8d4d6;
+        background-color: #f7fafd;
+    }
+    .footer .footer-col.first {
+        display: inline-block;
+        width: 14rem;
+        margin-right: 2.5rem;
+    }
+    .codes{
+        display: flex;
+    }
+    .footer p, .footer h5, .footer ul, .footer a {
+        color: #999;
+    }
+    .codes1{
+        color: #999;
+    }
+    .p-small1{
+        text-align: center;
+    }
+    .p-small{
+        font-size: 18px;
+    }
+    .footer .footer-col {
+        display: inline-block;
+        width: 14.5rem;
+        margin-right: 1rem;
+        margin-bottom: 1.5rem;
+        vertical-align: top;
+    }
+    .footer .fa-stack {
+        width: 2em;
+        margin-bottom: 0.75rem;
+        margin-right: 0.375rem;
+        font-size: 1.25rem;
+    }
+    .fa-stackx {
+        display: inline-block;
+        height: 2em;
+        line-height: 2em;
+        position: relative;
+        vertical-align: middle;
+        width: 2.5em;
+    }
+    .fa-stack-2xx {
+        left: 0;
+        position: absolute;
+        text-align: center;
+        width: 100%;
+        color: #999;
+    }
+     .fa-stack-2xx {
+        left: 68px;
+        position: absolute;
+        text-align: center;
+        width: 92%;
+        font-size: 43px;
+    }
+  
+    .fa-stack-1xx {
+        margin-left: -12px;
+        font-size: 21px;
+    }
+    .fa-stack-1xx{
+        color: white;
+    }
+
+    .fa-stack-1xx:hover {
+      
+        color: rgb(54, 45, 45);
+    }
+    .codes54:hover{
+        color: rgb(54, 45, 45);
+    }
